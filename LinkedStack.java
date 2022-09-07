@@ -1,5 +1,3 @@
-package edu.msmary.towers;
-
 class LinkedStack {
     private static class Node {
         int data;
