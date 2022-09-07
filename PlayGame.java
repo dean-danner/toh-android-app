@@ -1,5 +1,3 @@
-package edu.msmary.towers;
-
 import androidx.appcompat.app.AppCompatActivity;
 import java.util.LinkedHashMap;
 import java.util.Map;
